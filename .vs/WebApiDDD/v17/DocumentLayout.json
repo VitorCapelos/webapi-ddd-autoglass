@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72764AC4-0D13-4E0E-AEA0-178D1DC1B013}|WebApiDDD.Infrastructure\\WebApiDDD.Infrastructure.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.infrastructure\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72764AC4-0D13-4E0E-AEA0-178D1DC1B013}|WebApiDDD.Infrastructure\\WebApiDDD.Infrastructure.csproj|solutionrelative:webapiddd.infrastructure\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C882C475-FE87-4A3D-9D5B-3B2DC07EFAFC}|WebApiDDD.API\\WebApiDDD.API.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C882C475-FE87-4A3D-9D5B-3B2DC07EFAFC}|WebApiDDD.API\\WebApiDDD.API.csproj|solutionrelative:webapiddd.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72764AC4-0D13-4E0E-AEA0-178D1DC1B013}|WebApiDDD.Infrastructure\\WebApiDDD.Infrastructure.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.infrastructure\\data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72764AC4-0D13-4E0E-AEA0-178D1DC1B013}|WebApiDDD.Infrastructure\\WebApiDDD.Infrastructure.csproj|solutionrelative:webapiddd.infrastructure\\data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C33FA5-1BD5-4397-B16F-334A542419AF}|WebApiDDD.Domain.Service\\WebApiDDD.Domain.Services.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.domain.service\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C33FA5-1BD5-4397-B16F-334A542419AF}|WebApiDDD.Domain.Service\\WebApiDDD.Domain.Services.csproj|solutionrelative:webapiddd.domain.service\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B465084-FA98-4E69-9337-039CD73C4869}|WebApiDDD.Application\\WebApiDDD.Application.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.application\\applicationserviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B465084-FA98-4E69-9337-039CD73C4869}|WebApiDDD.Application\\WebApiDDD.Application.csproj|solutionrelative:webapiddd.application\\applicationserviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B465084-FA98-4E69-9337-039CD73C4869}|WebApiDDD.Application\\WebApiDDD.Application.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.application\\mapper\\mapperproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B465084-FA98-4E69-9337-039CD73C4869}|WebApiDDD.Application\\WebApiDDD.Application.csproj|solutionrelative:webapiddd.application\\mapper\\mapperproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B465084-FA98-4E69-9337-039CD73C4869}|WebApiDDD.Application\\WebApiDDD.Application.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.application\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B465084-FA98-4E69-9337-039CD73C4869}|WebApiDDD.Application\\WebApiDDD.Application.csproj|solutionrelative:webapiddd.application\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77E48BF-B71E-456D-857C-824FE0FDAF52}|WebApiDDD.Domain.Core\\WebApiDDD.Domain.Core.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.domain.core\\interfaces\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77E48BF-B71E-456D-857C-824FE0FDAF52}|WebApiDDD.Domain.Core\\WebApiDDD.Domain.Core.csproj|solutionrelative:webapiddd.domain.core\\interfaces\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72764AC4-0D13-4E0E-AEA0-178D1DC1B013}|WebApiDDD.Infrastructure\\WebApiDDD.Infrastructure.csproj|c:\\users\\vitor\\source\\repos\\webapiddd\\webapiddd.infrastructure\\data\\repositories\\repositoryproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72764AC4-0D13-4E0E-AEA0-178D1DC1B013}|WebApiDDD.Infrastructure\\WebApiDDD.Infrastructure.csproj|solutionrelative:webapiddd.infrastructure\\data\\repositories\\repositoryproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Application\\DTOs\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Application\\DTOs\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Application\\DTOs\\ProdutoDTO.cs",
+              "RelativeToolTip": "WebApiDDD.Application\\DTOs\\ProdutoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:14:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Application\\Mapper\\MapperProduto.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Application\\Mapper\\MapperProduto.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Application\\Mapper\\MapperProduto.cs",
+              "RelativeToolTip": "WebApiDDD.Application\\Mapper\\MapperProduto.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:13:49.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Infrastructure\\Data\\SqlContext.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Infrastructure\\Data\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Infrastructure\\Data\\SqlContext.cs*",
+              "RelativeToolTip": "WebApiDDD.Infrastructure\\Data\\SqlContext.cs*",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:09:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Domain.Core\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Domain.Core\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Domain.Core\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "WebApiDDD.Domain.Core\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T02:57:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Domain.Service\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Domain.Service\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Domain.Service\\ServiceBase.cs",
+              "RelativeToolTip": "WebApiDDD.Domain.Service\\ServiceBase.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T22:51:06.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServiceProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Application\\ApplicationServiceProduto.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Application\\ApplicationServiceProduto.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Application\\ApplicationServiceProduto.cs",
+              "RelativeToolTip": "WebApiDDD.Application\\ApplicationServiceProduto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T22:50:53.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryProduto.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryProduto.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryProduto.cs",
+              "RelativeToolTip": "WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryProduto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:37:09.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "WebApiDDD.Infrastructure\\Data\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:27:08.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.API\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "WebApiDDD.API\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Vitor\\source\\repos\\WebApiDDD\\WebApiDDD.API\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "WebApiDDD.API\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:24:56.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

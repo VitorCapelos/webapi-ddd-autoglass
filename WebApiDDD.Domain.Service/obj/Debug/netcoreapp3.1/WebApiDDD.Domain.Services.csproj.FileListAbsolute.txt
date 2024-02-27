@@ -1,0 +1,15 @@
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\bin\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.deps.json
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\bin\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.dll
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\bin\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.pdb
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\bin\Debug\netcoreapp3.1\WebApiDDD.Domain.Core.dll
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\bin\Debug\netcoreapp3.1\WebApiDDD.Domain.dll
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\bin\Debug\netcoreapp3.1\WebApiDDD.Domain.Core.pdb
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\bin\Debug\netcoreapp3.1\WebApiDDD.Domain.pdb
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDD.A8754E84.Up2Date
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.dll
+C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Service\obj\Debug\netcoreapp3.1\WebApiDDD.Domain.Services.pdb

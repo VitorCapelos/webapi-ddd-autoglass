@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebApiDDD.Domain.Core/1.0.0": {
+        "dependencies": {
+          "WebApiDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApiDDD.Domain.Core.dll": {}
+        }
+      },
+      "WebApiDDD.Domain/1.0.0": {
+        "runtime": {
+          "WebApiDDD.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = WebApiDDD.Domain.Core
+build_property.ProjectDir = C:\Users\Vitor\source\repos\WebApiDDD\WebApiDDD.Domain.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
